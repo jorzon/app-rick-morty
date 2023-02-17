@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.c27cdc8f.css",
-    "main.js": "/static/js/main.73916b70.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/the-gist-of-it.gif": "/static/media/the-gist-of-it.f01827f01979c7048e93.gif",
-    "static/media/gif": "/static/media/196b0b9b030e0f42b0a62d372185742f.d78bf89a8da978329df1.gif",
-    "static/media/Rick-and-Morty-Shop-Logo.png": "/static/media/Rick-and-Morty-Shop-Logo.43a8511b954b61c35907.png",
-    "static/media/RickAndMorty_MortySad1500_V2.gif": "/static/media/RickAndMorty_MortySad1500_V2.9ad097f92efef3d605dc.gif",
-    "static/media/png": "/static/media/6a3b2f6fbb5036e5e9608155bfd41e30.7c34d621dadca7f1126c.png",
-    "index.html": "/index.html",
-    "main.c27cdc8f.css.map": "/static/css/main.c27cdc8f.css.map",
-    "main.73916b70.js.map": "/static/js/main.73916b70.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/app-rick-morty/static/css/main.c27cdc8f.css",
+    "main.js": "/app-rick-morty/static/js/main.c4781158.js",
+    "static/js/787.28cb0dcd.chunk.js": "/app-rick-morty/static/js/787.28cb0dcd.chunk.js",
+    "static/media/the-gist-of-it.gif": "/app-rick-morty/static/media/the-gist-of-it.f01827f01979c7048e93.gif",
+    "static/media/gif": "/app-rick-morty/static/media/196b0b9b030e0f42b0a62d372185742f.d78bf89a8da978329df1.gif",
+    "static/media/Rick-and-Morty-Shop-Logo.png": "/app-rick-morty/static/media/Rick-and-Morty-Shop-Logo.43a8511b954b61c35907.png",
+    "static/media/RickAndMorty_MortySad1500_V2.gif": "/app-rick-morty/static/media/RickAndMorty_MortySad1500_V2.9ad097f92efef3d605dc.gif",
+    "static/media/png": "/app-rick-morty/static/media/6a3b2f6fbb5036e5e9608155bfd41e30.7c34d621dadca7f1126c.png",
+    "index.html": "/app-rick-morty/index.html",
+    "main.c27cdc8f.css.map": "/app-rick-morty/static/css/main.c27cdc8f.css.map",
+    "main.c4781158.js.map": "/app-rick-morty/static/js/main.c4781158.js.map",
+    "787.28cb0dcd.chunk.js.map": "/app-rick-morty/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c27cdc8f.css",
-    "static/js/main.73916b70.js"
+    "static/js/main.c4781158.js"
   ]
 }
