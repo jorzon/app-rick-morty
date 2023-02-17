@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/app-rick-morty/static/css/main.c27cdc8f.css",
-    "main.js": "/app-rick-morty/static/js/main.b2a9ef85.js",
+    "main.js": "/app-rick-morty/static/js/main.cb1106d5.js",
     "static/js/787.28cb0dcd.chunk.js": "/app-rick-morty/static/js/787.28cb0dcd.chunk.js",
     "static/media/the-gist-of-it.gif": "/app-rick-morty/static/media/the-gist-of-it.f01827f01979c7048e93.gif",
     "static/media/gif": "/app-rick-morty/static/media/196b0b9b030e0f42b0a62d372185742f.d78bf89a8da978329df1.gif",
@@ -10,11 +10,11 @@
     "static/media/png": "/app-rick-morty/static/media/6a3b2f6fbb5036e5e9608155bfd41e30.7c34d621dadca7f1126c.png",
     "index.html": "/app-rick-morty/index.html",
     "main.c27cdc8f.css.map": "/app-rick-morty/static/css/main.c27cdc8f.css.map",
-    "main.b2a9ef85.js.map": "/app-rick-morty/static/js/main.b2a9ef85.js.map",
+    "main.cb1106d5.js.map": "/app-rick-morty/static/js/main.cb1106d5.js.map",
     "787.28cb0dcd.chunk.js.map": "/app-rick-morty/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c27cdc8f.css",
-    "static/js/main.b2a9ef85.js"
+    "static/js/main.cb1106d5.js"
   ]
 }
